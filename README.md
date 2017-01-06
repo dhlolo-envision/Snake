@@ -1,3 +1,3 @@
 # Snake
 bilibili
-Today is a new beginning~
+Con pai~
